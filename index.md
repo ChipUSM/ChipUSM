@@ -56,7 +56,7 @@ En un contexto donde Chile tiene un retraso importante en esta disciplina, creem
 	</div>
 	
 	<div class="page-col page-col-1">
-		<a align="center" href="https://chipusm.github.io/CANELOS/"> <img src="assets/img/flyer_CANELOS24.png" alt="folleto CANELOS 2024" style="max-width: 100%"/> </a>
+		<a align="center" href="https://chipusm.github.io/CANELOS/"> <img src="assets/img/CANELOS25_flyer_3.png" alt="folleto CANELOS 2025" style="max-width: 100%"/> </a>
 	</div>
 </div>
 
